@@ -11,7 +11,7 @@ Pages. El objetivo es seguir mejorando nuestras paginas webs uniendolas a otras 
 
 #### La estructura esta pensada de la siguiente manera
 - index.html: página principal con información importante sobre el personaje elegido
--pagina2.html: La segunda pagina con datos menores sobre el personaje
+- pagina2.html: La segunda pagina con datos menores sobre el personaje
 - README.md: documentación del proyecto
 #### Datos
 - Autor: Ramiro Camara
